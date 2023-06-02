@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </h1>
 <img src="https://komarev.com/ghpvc/?username=sharaffin&style=flat-square&color=blue" alt=""/>     
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="http://ibmblr.tumblr.com/post/97660465681/watson-the-decision-whisperer-at-the-rate-you" width="600" height="300"/>
 </div>
                                                                                             
                                                                                     
