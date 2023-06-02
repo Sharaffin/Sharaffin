@@ -52,9 +52,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt=" Jupyter" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AScikit_learn_logo_small.svg&psig=AOvVaw2mfIZ-frSerZtmgT0Lxldi&ust=1685823318215000&source=images&cd=vfe&ved=2ahUKEwjJ0Mexs6X_AhV-t2MGHfJwCBYQjRx6BAgAEAw" title="Jupyter" alt=" Jupyter" width="40" height="40"/>&nbsp;                                                                                                                                                     
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt=" Jupyter" width="40" height="40"/>&nbsp;                                                                                                                                                  
  </div>                                                                                                                                                   
-    
+---
+
+### :fire: My Stats :
+                                                                                                                                                     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharaffin&theme=dark&background=000000)](https://git.io/streak-stats)
                                                                                     
                                                                                     
