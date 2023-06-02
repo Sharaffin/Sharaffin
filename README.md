@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="600" height="300"/>
 </div>
-
-                                                                                           ---
-
+___                                                                                           
 ### :woman_technologist: About Me : I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.  
 - :telescope: I’m working as a Data Science Intern and passionate about ML Modelling
 
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on Hackerrank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SharaffinB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharaffin-b-354a09241/)                                                                                                                                                   
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SharaffinB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharaffin-b-354a09241/)                                                                                                                                                 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :                                                                                            
